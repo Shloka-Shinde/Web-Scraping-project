@@ -1,8 +1,6 @@
 # Web-Scraping-project
 Scraping Top Repositories for Topics on GitHub
 
-# Web-Scraping Project
-
 ## Overview
 This project demonstrates web scraping by extracting information about the top repositories for various topics on GitHub. Using Python and its ecosystem of libraries, we gather data from GitHub's website and create a structured dataset in the form of CSV file(s).
 
